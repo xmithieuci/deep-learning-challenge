@@ -34,4 +34,4 @@ The purpose of this analysis is to build a deep learning model that predicts the
     - Trained over 50 epochs
 
 **Summary**
-The final deep learning model achieved moderate accuracy (~72%), which falls slightly below ideal performance benchmarks. For better results, a tree-based algorithm such as Random Forest or XGBoost may be more effective for this structured dataset.
+The final deep learning model achieved moderate accuracy (~72%), which falls slightly below ideal performance benchmarks. 
